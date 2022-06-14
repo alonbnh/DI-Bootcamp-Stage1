@@ -1,0 +1,22 @@
+body{
+	background-image: url(images.jpeg);
+	background-size: cover;
+}
+
+h2, p {
+	color: #242F44;
+	text-align: center;
+	border: 5px solid ;
+	cursor: pointer;
+
+}
+p{
+   color: pink;
+}
+p{
+  color: green;
+}
+li{
+	list-style: none;
+	display: inline-block ;
+}
