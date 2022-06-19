@@ -1,0 +1,38 @@
+body{
+    background-color: #C58A6A;
+}
+
+#wrap {
+background-color: beige;
+margin-left: auto;
+margin-right: auto;
+border: 5px dotted;
+margin: 0; 
+ }
+
+p,ul {
+font-family: Andale Mono, monospace;
+text-align: center;
+}
+ul {
+font-style: oblique;
+text-align: center;
+text-transform: capitalize;
+ }
+ li{
+display:block;
+cursor: pointer;
+margin-top: 7px ;
+text-align: center;
+}
+
+li::first-letter{ 
+font-weight: bold;
+font-size: 20px;
+}
+h1{
+font-size: 300%;
+ text-align: center;
+ font-weight: bold;
+ font-style: italic;
+}

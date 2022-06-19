@@ -1,0 +1,17 @@
+body {
+background-color: lightblue;
+ }
+ul {
+text-align: center;
+text-transform: capitalize;
+ }
+ li{
+display:block;
+cursor: pointer;
+margin-top: 7px ;
+}
+
+li::first-letter{ 
+font-weight: bold;
+font-size: 20px;
+}
